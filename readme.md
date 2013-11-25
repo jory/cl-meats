@@ -6,15 +6,11 @@ cl-meats (wip)
 2. Prints out the chat message
 3. (optional) Speaks the message via `say`
 
-## Requirements
-```
-pip install -r requirements.txt
-```
-
 ## Install
 ```
 git clone https://github.com/abelsonlive/cl-meats.git
 cd cl-meats
+pip install -r requirements.txt
 python setup.py install
 ```
 
